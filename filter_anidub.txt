@@ -1,0 +1,5 @@
+||buzzoola.com^$third-party
+||moevideo.biz^$third-party
+||adprofits.ru^$third-party
+||click.aliexpress.com^$subdocument,third-party
+anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
